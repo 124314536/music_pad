@@ -5,7 +5,7 @@ function tocaSom (idElementoAudio) {
 
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
-
+let contador = 0;
 
 //enquato
 while (contador < listaDeTeclas.length) {
